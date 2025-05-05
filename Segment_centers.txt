@@ -1,0 +1,7 @@
+Segment#, Branch#, Distance(m), XCenter(m), YCenter(m), UTMZONE, BottomElev(m)
+ 62,  5,      120809.00,   567941.14860,  4480250.33472, 10,   211.560
+ 61,  5,      118627.00,   567761.53225,  4482384.92791, 10,   241.560
+ 60,  5,      116679.00,   567393.92417,  4484288.07424, 10,   298.560
+ 59,  5,      114260.50,   566751.41196,  4486593.33816, 10,   315.060
+ Error processing coordinates. Preprocessing continuing. No connection for JB,NN
+ BR,JJB:           1           1           1
